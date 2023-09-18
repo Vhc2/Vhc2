@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yesbel</h1>
-<h3 align="center">I'm Yesbel, I work with data using  Excel, Python and Power bi, I use some machine learning in my models, I enjoy learning everything related to data management and artificial intelligence. 
+<h3 align="center"> I work with data using  Excel, Python and Power bi, I use some machine learning in my models, I enjoy learning everything related to data management and artificial intelligence. 
   
 Skills: SQL / Python / Power Bi / Tableu</h3>
 
